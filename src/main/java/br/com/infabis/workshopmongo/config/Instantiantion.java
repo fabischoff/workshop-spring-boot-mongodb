@@ -7,7 +7,6 @@ import java.util.TimeZone;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.context.annotation.Configuration;
-import org.springframework.data.mongodb.core.aggregation.ArithmeticOperators.Add;
 
 import br.com.infabis.workshopmongo.domain.Post;
 import br.com.infabis.workshopmongo.domain.User;
